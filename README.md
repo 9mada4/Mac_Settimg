@@ -3,7 +3,7 @@
 
 <details>
 <summary>基本</summary>
-    brew install XXX でどうにかなる．
+    `brew install XXX` でどうにかなる．
 </details>
 
 ## Hammerspoon
