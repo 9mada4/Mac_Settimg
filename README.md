@@ -28,3 +28,10 @@ init.luaを以下のディレクトリにコピーすると，コマンドが使
     - `　■■□　□□●　1枚目ウィンドウ ■　 2/3左寄せ `
 
 </details>
+
+<details>
+<summary>初期設定</summary>
+`brew install hammerspoon`
+    Reload Configをしないと反映されない
+</details>
+
