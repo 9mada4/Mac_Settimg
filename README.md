@@ -3,7 +3,9 @@
 
 <details>
 <summary>基本</summary>
-    `brew install XXX` でどうにかなる．
+Macでのインストールは基本
+
+`brew install XXX` でどうにかなる．
 </details>
 
 ## Hammerspoon
@@ -33,6 +35,7 @@ init.luaを以下のディレクトリにコピーすると，コマンドが使
     - `　■■□　□□●　1枚目ウィンドウ ■　 2/3左寄せ `
 
 </details>
+
 
 なお，Reload Configをしないと反映されない
 
