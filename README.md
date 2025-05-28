@@ -1,6 +1,11 @@
 # Mac_command
 - 備忘録です．
 
+<details>
+<summary>基本</summary>
+    brew install XXX でどうにかなる．
+</details>
+
 ## Hammerspoon
 init.luaを以下のディレクトリにコピーすると，コマンドが使えるようになる．
 
@@ -29,9 +34,5 @@ init.luaを以下のディレクトリにコピーすると，コマンドが使
 
 </details>
 
-<details>
-<summary>初期設定</summary>
-`brew install hammerspoon`
-    Reload Configをしないと反映されない
-</details>
+なお，Reload Configをしないと反映されない
 
