@@ -156,8 +156,8 @@ local choices = {
   { text = "●□|□■", mode = "rightHalfThenLeft" },
   { text = "■■□|□□●", mode = "leftTwoThirdsThenRight" },
   { text = "📁 重ねて表示", mode = "cascadeStack" },
-  { text = "⬆ 別モニターに移動　Ctrl + ⌥ + ⌘ + ⬆", mode = "moveToNextScreen" },
-  { text = "⬇ メインモニターに移動　Ctrl + ⌥ + ⌘ + ⬇", mode = "moveToPrevScreen" },
+  { text = "⬆ 別モニターに移動　Shift⬆ + ⌥ + ⌘ + ⬆", mode = "moveToNextScreen" },
+  { text = "⬇ メインモニターに移動　Shift⬆ + ⌥ + ⌘ + ⬇", mode = "moveToPrevScreen" },
 }
 
 -- GUIの表示と実行
