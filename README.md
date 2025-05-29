@@ -1,7 +1,14 @@
 # Mac_command
 - 備忘録です．
 
-## Hammerspoon
+<details>
+<summary>基本</summary>
+Macでのインストールは基本
+
+`brew install XXX` でどうにかなる．
+</details>
+
+## Hammerspoon　" ウィンドウ操作 "
 init.luaを以下のディレクトリにコピーすると，コマンドが使えるようになる．
 
 `/Users/ユーザー名/.hammerspoon/init.lua`
@@ -28,3 +35,9 @@ init.luaを以下のディレクトリにコピーすると，コマンドが使
     - `　■■□　□□●　1枚目ウィンドウ ■　 2/3左寄せ `
 
 </details>
+
+
+- Reload Configをしないと反映されない
+- ステージマネージャーと併用すると良い
+- デスクトップは一つのモニターで3つまでがよい
+- `トラックパッド > フルスクリーンアプリケーションをスワイプ　> 4本指で左右にスワイプ`をONにして上下左右にスライドすると感動する
