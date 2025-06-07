@@ -1,4 +1,4 @@
-# Mac_command
+# Mac_環境
 - 備忘録です．
 
 <details>
@@ -8,7 +8,7 @@ Macでのインストールは基本
 `brew install XXX` でどうにかなる．
 </details>
 
-## Hammerspoon　" ウィンドウ操作 "
+# Hammerspoon　" ウィンドウ操作 "
 init.luaを以下のディレクトリにコピーすると，コマンドが使えるようになる．
 
 `/Users/ユーザー名/.hammerspoon/init.lua`
