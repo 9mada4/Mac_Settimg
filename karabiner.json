@@ -1,0 +1,30 @@
+{
+    "description": "button4 Cmd+Tab",
+    "manipulators": [
+        {
+            "from": { "pointing_button": "button4" },
+            "parameters": { "basic.to_delayed_action_delay_milliseconds": 100 },
+            "to": [
+                {
+                    "key_code": "left_command",
+                    "lazy": true
+                }
+            ],
+            "to_after_key_up": [
+                {
+                    "key_code": "left_command",
+                    "repeat": false
+                }
+            ],
+            "to_delayed_action": {
+                "to_if_invoked": [
+                    {
+                        "key_code": "tab",
+                        "modifiers": ["left_command"]
+                    }
+                ]
+            },
+            "type": "basic"
+        }
+    ]
+}
